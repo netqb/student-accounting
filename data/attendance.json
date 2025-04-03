@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1743166917706,
+    "date": "2025-03-28",
+    "studentId": 1743166873528,
+    "courseId": 2,
+    "status": "present"
+  },
+  {
+    "id": 1743166919392,
+    "date": "2025-03-28",
+    "studentId": 1743166873528,
+    "courseId": 2,
+    "status": "absent"
+  },
+  {
+    "id": 1743167297602,
+    "date": "2025-03-28",
+    "studentId": 1743166873528,
+    "courseId": 1743167220254,
+    "status": "present"
+  }
+]
